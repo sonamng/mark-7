@@ -1,0 +1,141 @@
+/* 
+
+
+:root{
+    --primary-coloer:skyblue;
+    --off-white: hsla(220, 14%, 96%, 0.898);
+    --dark-gray:#6B7280;
+}
+
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 2px;
+    background-color: skyblue;
+}
+
+textarea{
+    width: 50rem;
+    height: 14rem;
+    margin-top: 1rem;  
+    text-align: -2rem;
+    margin-bottom: 1rem;
+    margin-left: 43rem;
+    border: 5px solid blue;
+} 
+
+button{
+    text-align: center;
+    border: var(--primary-coloer);
+    margin-left: 52rem;
+    width: 10rem;
+    height: 4rem;
+    font-size: 1rem;
+    background-color:black;
+    color: var(--primary-coloer);
+}
+h1{
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 3rem;
+}
+
+p{
+    margin-left: 43rem;
+    margin-top: 2rem;
+}
+
+h2{
+    margin-left: 0rem;
+}
+.p{
+
+    margin-left: 43rem;
+    margin-top: 1rem;
+}
+
+i{
+    text-align: center;
+}
+footer{
+    text-align: center;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root{
+     --primary-coloer:#f77858; 
+    
+    --off-white: hsla(184, 91%, 54%, 0.898);
+}
+ 
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 2px;
+    background-color: cyan;
+}
+
+h1{
+    text-align: center;
+    padding: 3rem;
+    font-size: 2rem;
+    color: black;
+    margin-top: 0rem;
+    /* background-color: var(--primary-coloer); */
+}
+
+button{
+    text-align: center;
+    height: 4rem;
+    width: 15rem;
+    margin-left: 40rem;
+    background-color: var(--primary-coloer);
+    font-size: 1.3rem;
+    margin-top: 1rem;
+} 
+
+textarea{
+    width: 53rem;
+    height: 11rem;
+    margin-top: 0.7rem;  
+    text-align: 4rem;
+    margin-bottom: 0.2rem;
+    margin-left: 40rem;
+    border: 8px solid gray;
+} 
+
+#output {
+     border: 1px solid black;
+     height: 10vh;
+     width: 45%;
+     padding: 1rem;
+     margin-left: 40rem;
+     border: 8px solid gray;
+     background-color: white;
+}
+
+div{
+    margin-left: 40rem;
+    margin-top: 1rem;
+}
+
+
+p{
+    font-size: 1rem;
+    text-align: center;
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
